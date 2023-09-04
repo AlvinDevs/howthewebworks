@@ -1,0 +1,39 @@
+
+What is HTTP? 
+
+its the foundation to WWW and defines the rules and conventionsfor requesting and transmitting data on the internet.
+
+What is URL?
+
+its a reference or address used to identify and locate resources on the internet.
+
+What is DNS?
+
+It translates human-readable domain names into IP addresses and serves as a decentralized directory system that helps
+computers and devices find and communicate with each other over the internet.
+
+What is a query string?
+
+A query string is a component of a URL (Uniform Resource Locator) that follows a question mark "?" 
+and is used to pass data or parameters to a web server as part of an HTTP request. 
+
+What are two HTTP verbs and how are they different?
+
+Get and Post.
+
+The primary purpose of the GET method is to request data from a specified resource.
+and The POST method is used to submit data to be processed to a specified resource. 
+
+What is an HTTP request?
+
+is a message sent by a client or to a web server to request a specific action or resource.
+
+What is an HTTP header? Give a couple examples of request and response headers you have seen.
+
+headers are metadata components used in both HTTP requests and responses to provide additional
+information about the data being transmitted between a client and server.
+
+What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
+
+URL Parsing, DNS Resolution, TCP/IP connection, Server Processing, HTTP Response, Data Transfer, Rendering,
+Displaying the Page, Additional Request, Caching and User Interaction
